@@ -1,9 +1,9 @@
 # Weather_app.python
 Weather application with python 
 
-🔰This my project about software devlopment with python, to understand the python programming, how gui works in python and how to integrate APIs in python software.
+🔰This my project about software devlopment with python,this project helps to understand the python programming, how gui works in python and how to integrate APIs in python software.
 
-🔰To run this code on your pc, it needs to install  all the libraries of python.
+🔰To run this code on your pc, it needs to install all of the libraries of python.
 
 🔰API used in this project is from OpenWeatherMap.
 
@@ -24,10 +24,10 @@ Weather application with python
 ❗❕ You can download file from Projects section.
 
 
-⭕please make sure if you download my project .exe zipfile, it will trigger the windows defender because it doesnot recognize it as exe.zipfile.⭕
-⭕To solve this, you need to give it permission to windows defender for allow on this device.⭕
+⭕please make sure if you download my project .exe zipfile, it will trigger the windows defender because it does not recognize it as exe.file.⭕
+⭕To solve this, you will need to give permission for windows defender to allow on this device.⭕
 
-2️⃣After installing exe.zipfile you should extract all file from it, then run the main.exe file as administrator, 
+2️⃣After installing exe.zipfile you should extract all files from it, then run the main.exe file as administrator, 
 🛑if incase it dose not run, drag the img-folder into main.exe file then check.
 
 #imported library# 
