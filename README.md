@@ -1,37 +1,58 @@
-# Weather_app.python
-Weather application with python 
+# Weather App in Python
 
-🔰This my project about software devlopment with python,this project helps to understand the python programming, how gui works in python and how to integrate APIs in python software.
+🔰 This project showcases software development with Python, helping to understand Python programming, GUI creation in Python, and API integration.
 
-🔰To run this code on your pc, it needs to install all of the libraries of python.
+🔰 To run this code on your PC, you need to install all the required Python libraries.
 
-🔰API used in this project is from OpenWeatherMap.
+🔰 The API used in this project is from OpenWeatherMap.
 
-🛑NOTE:- THIS WON'T WORK IF YOU HAVEN'T INSTALL PYTHON AND ITS MAIN LIBRARIES
+🛑 NOTE: THIS WON'T WORK IF YOU HAVEN'T INSTALLED PYTHON AND ITS MAIN LIBRARIES
 
-----REQUIRED LIBRARIES TO INSTALL WHILE RUNNING THIS SOFTWEARE.----
-1) install pyinstaller
-2) install tkinter
-3) install requests
-4) install bootstrap
-5) install pytz
-6) install timezonefile
-7) install geopy
+**Required Libraries:**
+1. `pyinstaller`
+2. `tkinter`
+3. `requests`
+4. `bootstrap`
+5. `pytz`
+6. `timezonefile`
+7. `geopy`
 
-*All important library are install in this app.
-❗*NOTE :- i also create the exe file of this in case it didn't work, You can download .exe zip file on my website.
-1️⃣👉link:-https://mrazeemkh.netlify.app
-❗❕ You can download file from Projects section.
+*All important libraries are included in this app.*
 
+❗**NOTE:** I also created an executable file (.exe) in case the script doesn't work. You can download the .exe zip file from my website.
+1️⃣ 👉 [Download link](# Weather App in Python
 
-⭕please make sure if you download my project .exe zipfile, it will trigger the windows defender because it does not recognize it as exe.file.⭕
-⭕To solve this, you will need to give permission for windows defender to allow on this device.⭕
+🔰 This project showcases software development with Python, helping to understand Python programming, GUI creation in Python, and API integration.
 
-2️⃣After installing exe.zipfile you should extract all files from it, then run the main.exe file as administrator, 
-🛑if incase it dose not run, drag the img-folder into main.exe file then check.
+🔰 To run this code on your PC, you need to install all the required Python libraries.
 
-#imported library# 
+🔰 The API used in this project is from OpenWeatherMap.
 
+🛑 NOTE: THIS WON'T WORK IF YOU HAVEN'T INSTALLED PYTHON AND ITS MAIN LIBRARIES
+
+**Required Libraries:**
+1. `pyinstaller`
+2. `tkinter`
+3. `requests`
+4. `bootstrap`
+5. `pytz`
+6. `timezonefile`
+7. `geopy`
+
+*All important libraries are included in this app.*
+
+❗**NOTE:** I also created an executable file (.exe) in case the script doesn't work. You can download the .exe zip file from my website.
+1️⃣ 👉 [Download link](https://mrazeemkh.netlify.app) (Projects section)
+❗❕ If you download the .exe zip file, Windows Defender might trigger a warning because it does not recognize the file as an executable. ❗
+
+⭕ To resolve this, you need to grant permission to Windows Defender to allow the file on your device. ⭕
+
+2️⃣ After installing the .exe zip file, extract all files from it, then run the main.exe file as administrator.
+🛑 If it doesn't run, drag the img-folder into the main.exe file and try again.
+
+## Imported Libraries
+
+```python
 import tkinter as tk
 import requests
 import ttkbootstrap
@@ -40,9 +61,22 @@ from tkinter import *
 from tkinter import messagebox
 from PIL import Image, ImageTk
 from datetime import datetime
+) (Projects section)
+❗❕ If you download the .exe zip file, Windows Defender might trigger a warning because it does not recognize the file as an executable. ❗
 
-☢
+⭕ To resolve this, you need to grant permission to Windows Defender to allow the file on your device. ⭕
 
+2️⃣ After installing the .exe zip file, extract all files from it, then run the main.exe file as administrator.
+🛑 If it doesn't run, drag the img-folder into the main.exe file and try again.
 
+## Imported Libraries
 
-   
+```python
+import tkinter as tk
+import requests
+import ttkbootstrap
+import pytz
+from tkinter import *
+from tkinter import messagebox
+from PIL import Image, ImageTk
+from datetime import datetime
